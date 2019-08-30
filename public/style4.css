@@ -1,0 +1,46 @@
+
+body{
+    font-family: 'roboto';
+}
+
+
+h1{
+    line-height: 7  0px;
+    font-size: 60px;
+    display: inline-block;
+    margin-left: 80px;
+    
+    
+
+}
+
+img{
+    float: right;
+    height: 500px;
+    width: 600px;
+    margin-right: 120px;
+}
+
+
+a{
+	background-color: seagreen;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-size:18px;
+	padding:16px 31px;
+	text-decoration:none;
+	
+}
+a:hover{
+    background-color:grey;
+    transition: 0.4s ease;
+    border: none;
+}
+a{
+	position:relative;
+	top:1px;
+}
+
+        
